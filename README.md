@@ -1,0 +1,1 @@
+This is Fanny's first git project!
